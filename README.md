@@ -47,3 +47,5 @@ pip3 install pycuda --user
    ```
    chrome://dino/
    ```
+
+Enjoy the game!
