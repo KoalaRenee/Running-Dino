@@ -39,7 +39,7 @@ pip3 install pycuda --user
    To here
    ![3fea16e2-89ea-49df-a3ce-8c2ba18e3c77](https://github.com/user-attachments/assets/81bd21b3-b6e1-402e-af26-24d3e0daf0b3)
    Then, you may see this window displaying.
-   - After that, you may adjust your camera so that it can see your full body and the bottom edge of the window is lined with your feet. (This program ONLY allows ONE person to play, DON’T have more than ONE person stand in front of the camera)
+   - After that, you may adjust your camera so that it can see your full body and the bottom edge of the window is lined with your feet. (This program ONLY allows ONE person to play, DON’T have more than ONE person standing in front of the camera)
    ![7cb09a9f-7e98-47df-97d5-34efae7799cf](https://github.com/user-attachments/assets/281f0664-a1e5-417e-9f84-9bcf61268a77)
      Like this.
    - Next, try jumping and squatting to test whether the camera can detect your motion. The text at the upper right corner will show your state (none is standing, jump is jumping and knee is squatting)
