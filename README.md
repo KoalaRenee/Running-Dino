@@ -1,4 +1,4 @@
-# Setup From Fresh Jetpack 4.6.1 Installation
+# Setup From Fresh Jetpack 4.6.1 Installation RUNNING DINO
 ## Introduction
 The Dinosaur Game is a built-in browser game in the Google Chrome Web Browser and was created by Sebstien Gabriel in 2014. This project is a program where you can use your own body as a controller to play this game.
 ## About
