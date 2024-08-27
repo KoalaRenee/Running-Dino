@@ -8,7 +8,7 @@ This programme involves the use of yolov5 to detect your motion. We determine wh
 - Interacting with the game through physical movements could turn it into a form of interactive exercise or gaming. This could make the experience more engaging and encourage physical activity, which can be beneficial for physical and mental health.
 > Cognitive and Motor Skill Development
 - Coordinating the physical movements with the game's actions can help players improve their body coordination, reaction time, and spatial awareness.
-- The cognitive demands of recognizing and responding to the game's events through physical actions can also contribute to the development of cognitive skills, such as attention, decision-making, and problem-solving.
+- The cognitive demands of recognizing and responding to the game's events through physical actions can also contribute to the development of cognitive skills, such as attention and decision-making.
 > Educational and Therapeutic Application
 - The setup can be used in educational or therapeutic settings to teach topics like computer vision, machine learning, and human-computer interaction.
 - The game can also be adapted for use in physical therapy or occupational therapy, helping patients improve their physical abilities and mobility.
