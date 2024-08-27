@@ -1,6 +1,6 @@
 # Setup From Fresh Jetpack 4.6.1 Installation
 ## Introduction
-The Dinosaur Game is a built-in browser game in the Google Chrome Web Browser and was created by Sebstien Gabriel in 2014. This project is a program where you can use your own body as a controller to play this game.
+The Dinosaur Game is a built-in browser game in the Google Chrome Web Browser and was created by Sebstien Gabriel in 2014. This project is a program where you can use your own body as a controller to play this game. With the use of AI model - Yolov5, this program can detect the change of the length of your torso
 ## Aim
 > Physical Activity and Fitness
 - Interacting with the game through physical movements could turn it into a form of interactive exercise or gaming. This could make the experience more engaging and encourage physical activity, which can be beneficial for physical and mental health.
