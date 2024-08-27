@@ -1,6 +1,8 @@
 # Setup From Fresh Jetpack 4.6.1 Installation
 ## Introduction
 The Dinosaur Game is a built-in browser game in the Google Chrome Web Browser and was created by Sebstien Gabriel in 2014. This project is a program where you can use your own body as a controller to play this game.
+## About
+This programme involves the use of yolov5 to detect your motion. We determine whether you are jumping or kneeling (Dino: jump or bend over to avoid obstacles) by comparing the size of 
 ## Aim
 > Physical Activity and Fitness
 - Interacting with the game through physical movements could turn it into a form of interactive exercise or gaming. This could make the experience more engaging and encourage physical activity, which can be beneficial for physical and mental health.
