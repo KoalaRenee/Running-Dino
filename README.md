@@ -29,7 +29,6 @@ pip3 install pycuda --user
 ```
 ## Run the code
 1. Connect jetson nano to your device
-   - Password: jetson
 2. Download playground.py
 3. Move playground.py to tensorrtx/yolov5/
 4. Run playground.py
